@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ 
+    <string name="app_name">FindMyStuff</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string-array name="navdrawer">
+        <item >Profile</item>
+        <item >PG/Hostel</item>
+        <item >Contact Agent</item>
+        <item >Shortlist</item>
+        <item >What\'s Hot</item>
+        <item >Privacy Policy</item>
+        <item >How It Works</item>
+    </string-array>
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/user</item>
+        <item>@drawable/pg</item>
+        <item>@drawable/contact</item>
+        <item>@drawable/shortlist</item>
+        <item>@drawable/hot</item>
+        <item>@drawable/rules</item>
+        <item>@drawable/howitworks</item>
+    </array>
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+     
+</resources>
